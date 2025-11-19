@@ -1,6 +1,6 @@
 # Movie_Review_Analyzer_with_LLM
 Анализатор тональности отзывов с объяснением, с помощью LLM с RAG механикой.
-<img width="924" height="702" alt="изображение-Photoroom" src="https://github.com/user-attachments/assets/dce88e16-05cd-4508-aac6-373a0201d658" />
+<img width="924" height="702" alt="Снимок экрана от 2025-11-19 16-09-51" src="https://github.com/user-attachments/assets/7daf564a-970c-4874-9ddc-aad5db0f62b4" />
 
 ## Как запустить?
 1. В файл `KEY_FILE.py` вставьте свой ключ для работы с API Mistral
