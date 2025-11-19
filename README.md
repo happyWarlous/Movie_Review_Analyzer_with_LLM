@@ -1,5 +1,6 @@
 # Movie_Review_Analyzer_with_LLM
 Анализатор тональности отзывов с объяснением, с помощью LLM с RAG механикой.
+<img width="924" height="702" alt="изображение-Photoroom" src="https://github.com/user-attachments/assets/dce88e16-05cd-4508-aac6-373a0201d658" />
 
 ## Как запустить?
 Чтобы запустить проект сначала нужно установить все зависимости, а после запустить Streamlit скрипт:
