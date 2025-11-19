@@ -9,6 +9,8 @@ streamlit run app.py
 ```
 
 ## Структура проекта
+
+```
 Movie_Review_Analyzer_with_LLM/
 ├── data/
 │   └── chroma_db/        # Векторная база данных, основаная на отзывах фильмов
@@ -21,3 +23,4 @@ Movie_Review_Analyzer_with_LLM/
 ├── requirements.txt      # Python зависимости
 ├── retriever.py          # Retriever для работы с векторной БД
 └── README.md             # Документация
+```
